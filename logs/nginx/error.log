@@ -1,0 +1,1 @@
+2024/11/28 14:52:50 [error] 20000#11488: *5910 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:10002", host: "fictional-university.local", referrer: "http://fictional-university.local/"
